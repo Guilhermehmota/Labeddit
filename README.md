@@ -1,6 +1,8 @@
 # LabEddit
 
-### Link surge: royal-horses.surge.sh
+### Link surge: 
+
+https://labeddit-guilherme.surge.sh
 
 ## Ferramentas utilizadas 🔧
 
